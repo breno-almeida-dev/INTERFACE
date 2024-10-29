@@ -15,7 +15,7 @@ A implementação inclui uma interface para definir o método de cálculo de bô
 - **Classe Principal:** A classe `Main` cria instâncias de cada tipo de funcionário e exibe os valores dos bônus.
 
 ## Diagrama do Projeto:
-![Imagem do diagrama do projeto](https://github.com/breno-almeida-dev/CLASSE_ESTATICA/blob/master/DiagramaInterface.png)  
+![Imagem do diagrama do projeto](https://github.com/breno-almeida-dev/INTERFACE/blob/master/DiagramaInterface.png)  
   
 
 ## 📋 Pré-requisitos
